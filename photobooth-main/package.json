@@ -1,0 +1,30 @@
+{
+  "name": "photobooth",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "jotai": "^2.12.2",
+    "jotai-devtools": "^0.11.0",
+    "jotai-optics": "^0.4.0",
+    "jotai-utils": "^0.0.0",
+    "next": "15.2.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@pixi/react": "^8.0.0-beta.14",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "pixi.js": "^8.8.1",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
